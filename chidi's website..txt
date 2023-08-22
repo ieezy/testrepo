@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>chidi's personal site</title>
+  <link rel="stylesheet" href="C:\Users\onwuk\OneDrive\Desktop\ieezy's web development\css\styles.css">
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td>  <img src="images/emmanuel.png" alt=" Emmanuel's profile picture"></td>
+      <td><h1>Onwuka Emmanuel Chidi</h1>
+      <p> <em>An <strong>Environmental engineer</strong> and <strong> a Web developer</strong></em> </p>
+      <p>I am a Masters student in the West Texas University. There, I research on waste water management from farm runoff.
+        I am also a Web Developer currently developing a website on waste water locations in texas.</p></td>
+    </tr>
+  </table>
+
+
+  <hr size='2'>
+  <h3>Education</h3>
+  <ul>
+    <li>Staff School University of Ibadan</li>
+    <li>University of Ibadan</li>
+    <li><strong><a href="https://engineering.tamu.edu/index.html">Texas A&M University </a></strong></li>
+  </ul>
+
+  <a href="hobbies.html">Hobbies</a>
+  <a href="contact_information.html">Contact Information</a>
+  <hr size="2">
+  <h3>Work Experience</h3>
+  <table cellspacing="20">
+    <thead>
+      <tr>
+        <th>Dates</th>
+        <th>Work</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2018</td>
+        <td>worker at IITA</td>
+      </tr>
+      <tr>
+        <td>2021-2022</td>
+        <td>teacher at community secondary school itukho</td>
+      </tr>
+
+    </tbody>
+
+  </table>
+
+</body>
+<hr size="2">
+<h3>Skills</h3>
+<table cellspacing="10">
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Web Development</td>
+          <td>⭐</td>
+        </tr>
+        <tr>
+          <td>Python</td>
+          <td>⭐</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Basketball</td>
+          <td>⭐⭐⭐</td>
+        </tr>
+        <tr>
+          <td>Photography</td>
+          <td>⭐⭐</td>
+        </tr>
+        </table>
+    </td>
+  </tr>
+</table>
+
+<h3>Skills</h3>
+<table cellspacing="10">
+  <tr>
+    <td>Web Development</td>
+    <td>⭐</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>⭐</td>
+  </tr>
+  <tr>
+    <td>Basketball</td>
+    <td>⭐⭐⭐</td>
+  </tr>
+
+</table>
+</html>
